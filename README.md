@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![raalonso's 42 stats](https://badge42.vercel.app/api/v2/cle203yhl01060fk63wxq61ro/stats?cursusId=9&coalitionId=undefined)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle203yhl01060fk63wxq61ro/stats?cursusId=21&coalitionId=66" alt="raalonso's 42 stats" /></a>
 </div>
 
 <div align="center">
