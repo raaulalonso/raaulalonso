@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 align="center">Hey <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Raúl</h1>
-  <p>Estudiante de DAM en ESIC y estudiante en 42 Madrid</p>
+  <h1 align="center">Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, soy Raúl</h1>
+  <h3>Estudiante de DAM en ESIC y estudiante en 42 Madrid</h3>
 </div>
 <table align="center">
   <tr>
@@ -12,11 +12,11 @@
 </table>
 <div align="center">
 
-# 42 Profile
+# Perfil 42
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/raalonso?1337Badge=off&UM6P=off" alt="raalonso's 42 stats" /></a>
 </div>
 <div align="center">
   
-# Visitor count
+# Visitante número:
 ![Visitor Count](https://profile-counter.glitch.me/apeslx/count.svg)
 </div>
