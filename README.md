@@ -16,7 +16,4 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/raalonso?1337Badge=off&UM6P=off" alt="raalonso's 42 stats" /></a>
 </div>
 <div align="center">
-  
-# Visitante número:
-![Visitor Count](https://profile-counter.glitch.me/apeslx/count.svg)
-</div>
+
