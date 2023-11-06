@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align="center">Hey <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Raúl</h1>
+  <p>Estudiante de DAM en ESIC y estudiante en 42 Madrid</p>
 </div>
 <table align="center">
   <tr>
