@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, soy Raúl</h1>
+  <h1 align="center">Hola, soy Raúl👋</h1>
   <h3>Estudiante de DAM en ESIC y estudiante en 42 Madrid</h3>
 </div>
 <table align="center">
@@ -12,7 +12,7 @@
 </table>
 <div align="center">
 
-# Perfil 42
+### Perfil 42
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/raalonso?1337Badge=off&UM6P=off" alt="raalonso's 42 stats" /></a>
 </div>
 <div align="center">
