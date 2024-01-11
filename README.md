@@ -15,6 +15,4 @@
 ### Perfil 42
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/raalonso?1337Badge=off&UM6P=off" alt="raalonso's 42 stats" /></a>
 </div>
-<div align="center">
 
-<img src="footer.svg">
