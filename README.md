@@ -20,10 +20,3 @@ In my day-to-day, I immerse myself in software development, working on projects 
   </tr>
 </table>
 
-## 42Cursus Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-<table>
-  <tr>
-    <td><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/raalonso?1337Badge=off&UM6P=off" alt="raalonso's 42 stats" /></a></td>
-  </tr>
-</table>
-
