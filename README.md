@@ -9,14 +9,3 @@ In my day-to-day, I immerse myself in software development, working on projects 
     <img src="https://skillicons.dev/icons?i=c,cpp,cmake,java,maven,python,js,kotlin,postgres,react,html,css,linux,azure,bash,docker,eclipse,git,github,idea,pycharm,powershell,vim,vscode&perline=12" />
   </a>
 </p>
-
-## Github Stats  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-<table>
-  <tr>
-    <td><a href="https://github.com/raaulalonso/raaulalonso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raaulalonso&show_icons=true&line_height=33,5&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raaulalonso's GitHub Stats" /></td>
-    <td><a href="https://github.com/raaulalonso/raaulalonso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaulalonso&card_width=468&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" /></td>
-  </tr>
-</table>
-
